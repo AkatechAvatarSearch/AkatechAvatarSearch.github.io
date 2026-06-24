@@ -1,5 +1,5 @@
 <script setup>
-import Main from './components/Main.vue'
+import Main from './components/Avatars.vue'
 import Loading from './components/Loading.vue'
 import { onMounted, ref } from 'vue';
 
